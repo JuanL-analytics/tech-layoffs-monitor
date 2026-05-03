@@ -2,6 +2,14 @@
 
 ![Dashboard Preview](Dashboard_Tech_Layoffs_Monitor.png)
 
+(Slide1.png)
+(Slide2.png)
+(Slide3.png)
+(Slide4.png)
+(Slide5.png)
+(Slide6.png)
+(Slide7.png)
+
 ## 🎯 Project Overview
 Este dashboard analiza el impacto real de los despidos en el sector tecnológico global.
 
