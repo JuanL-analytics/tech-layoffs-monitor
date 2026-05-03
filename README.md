@@ -1,4 +1,6 @@
 # 📉 Tech Layoffs Monitor (2020-2025)
+![Dashboard Preview](Dashboard_Tech_Layoffs_Monitor.png)
+
 ![Portada del Proyecto](Slide1.png)
 
 ## 📖 Data Storytelling
@@ -17,7 +19,7 @@
   <img src="Slide7.png" width="45%" />
 </p>
 
-![Dashboard Preview](Dashboard_Tech_Layoffs_Monitor.png)
+
 
 
 ## 🎯 Project Overview
