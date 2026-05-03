@@ -17,9 +17,8 @@ Este dashboard analiza el impacto real de los despidos en el sector tecnológico
 ## 📂 Contenido del Repositorio
 - `tech-layoffs.pbix`: Archivo fuente con el modelo de datos y DAX.
 - `Dashboard_Tech_Layoffs_Monitor.png`: Captura de pantalla del diseño final del dashboard.
-
+- `carrusel_linkedin_tech_layoffs.pdf`: Storytelling del dashboard.
 ---
-### 💼 Contacto & Servicios
+### 💼 Contacto.
 ¿Buscas optimizar tus procesos operativos o crear dashboards de alto impacto?
 - **Email:** juanluis.analytics@outlook.es
-- **Disponibilidad:** Consultoría freelance para optimización de datos en Power BI.
