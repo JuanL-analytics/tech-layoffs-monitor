@@ -1,14 +1,24 @@
 # 📉 Tech Layoffs Monitor (2020-2025)
+![Portada del Proyecto](Slide1.png)
+
+## 📖 Data Storytelling
+*Desliza para ver los puntos clave del análisis o consulta el [Carrusel Completo](carrusel_linkedin_tech_layoffs.pdf)*
+
+<p align="center">
+  <img src="Slide2.png" width="45%" />
+  <img src="Slide3.png" width="45%" /> 
+</p>
+<p align="center">
+  <img src="Slide4.png" width="45%" />
+  <img src="Slide5.png" width="45%" />
+</p>
+<p align="center">
+  <img src="Slide6.png" width="45%" />
+  <img src="Slide7.png" width="45%" />
+</p>
 
 ![Dashboard Preview](Dashboard_Tech_Layoffs_Monitor.png)
 
-(Slide1.png)
-(Slide2.png)
-(Slide3.png)
-(Slide4.png)
-(Slide5.png)
-(Slide6.png)
-(Slide7.png)
 
 ## 🎯 Project Overview
 Este dashboard analiza el impacto real de los despidos en el sector tecnológico global.
